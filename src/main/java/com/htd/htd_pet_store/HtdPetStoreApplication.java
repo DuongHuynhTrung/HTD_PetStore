@@ -1,0 +1,13 @@
+package com.htd.htd_pet_store;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HtdPetStoreApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(HtdPetStoreApplication.class, args);
+    }
+
+}
